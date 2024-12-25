@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +35,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cf577b8c-4134-11d2-83e5-00c04f9902c1}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
@@ -68,9 +72,9 @@
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\Distributed.Cache\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Distributed.Cache\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\Distributed.Cache\\Controllers\\HomeController.cs*",
-              "RelativeToolTip": "Distributed.Cache\\Controllers\\HomeController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\Distributed.Cache\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Distributed.Cache\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-25T13:41:39.068Z",
               "EditorCaption": ""

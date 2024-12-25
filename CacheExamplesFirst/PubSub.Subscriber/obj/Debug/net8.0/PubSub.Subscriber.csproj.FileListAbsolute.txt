@@ -1,0 +1,5 @@
+C:\Users\Metehan\OneDrive\Masaüstü\Projeler\GitHub\Redis\CacheExamplesFirst\PubSub.Subscriber\obj\Debug\net8.0\PubSub.Subscriber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\OneDrive\Masaüstü\Projeler\GitHub\Redis\CacheExamplesFirst\PubSub.Subscriber\obj\Debug\net8.0\PubSub.Subscriber.AssemblyInfoInputs.cache
+C:\Users\Metehan\OneDrive\Masaüstü\Projeler\GitHub\Redis\CacheExamplesFirst\PubSub.Subscriber\obj\Debug\net8.0\PubSub.Subscriber.AssemblyInfo.cs
+C:\Users\Metehan\OneDrive\Masaüstü\Projeler\GitHub\Redis\CacheExamplesFirst\PubSub.Subscriber\obj\Debug\net8.0\PubSub.Subscriber.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\OneDrive\Masaüstü\Projeler\GitHub\Redis\CacheExamplesFirst\PubSub.Subscriber\obj\Debug\net8.0\PubSub.Subscriber.sourcelink.json
