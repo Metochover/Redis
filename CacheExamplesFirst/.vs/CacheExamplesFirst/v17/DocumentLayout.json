@@ -7,10 +7,6 @@
       "RelativeMoniker": "D:0:0:{5639D40A-92A8-4B07-B67C-EC6C8265750F}|PubSub.Subscriber\\PubSub.Subscriber.csproj|solutionrelative:pubsub.subscriber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3AEC840C-B7C2-476E-8AE2-C71274F0A287}|SubPub\\SubPub.csproj|c:\\users\\metehan\\onedrive\\masa\u00FCst\u00FC\\projeler\\github\\redis\\cacheexamplesfirst\\subpub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3AEC840C-B7C2-476E-8AE2-C71274F0A287}|SubPub\\SubPub.csproj|solutionrelative:subpub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{3700668A-4CF3-4C98-82AE-6B948E6223C7}|Distributed.Cache\\Distributed.Cache.csproj|c:\\users\\metehan\\onedrive\\masa\u00FCst\u00FC\\projeler\\github\\redis\\cacheexamplesfirst\\distributed.cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3700668A-4CF3-4C98-82AE-6B948E6223C7}|Distributed.Cache\\Distributed.Cache.csproj|solutionrelative:distributed.cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -21,6 +17,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{FB817FB2-1107-498A-A069-F1BA80700B5B}|InMemory.Cache\\InMemory.Cache.csproj|c:\\users\\metehan\\onedrive\\masa\u00FCst\u00FC\\projeler\\github\\redis\\cacheexamplesfirst\\inmemory.cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB817FB2-1107-498A-A069-F1BA80700B5B}|InMemory.Cache\\InMemory.Cache.csproj|solutionrelative:inmemory.cache\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AEC840C-B7C2-476E-8AE2-C71274F0A287}|SubPub\\SubPub.Publisher.csproj|c:\\users\\metehan\\onedrive\\masa\u00FCst\u00FC\\projeler\\github\\redis\\cacheexamplesfirst\\subpub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AEC840C-B7C2-476E-8AE2-C71274F0A287}|SubPub\\SubPub.Publisher.csproj|solutionrelative:subpub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -59,7 +59,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\SubPub\\Program.cs",
               "RelativeDocumentMoniker": "SubPub\\Program.cs",
@@ -67,12 +67,11 @@
               "RelativeToolTip": "SubPub\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T14:53:40.241Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T14:53:40.241Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\InMemory.Cache\\Program.cs",
               "RelativeDocumentMoniker": "InMemory.Cache\\Program.cs",
@@ -80,12 +79,11 @@
               "RelativeToolTip": "InMemory.Cache\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:57:06.039Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:57:06.039Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\Distributed.Cache\\Program.cs",
               "RelativeDocumentMoniker": "Distributed.Cache\\Program.cs",
@@ -93,12 +91,11 @@
               "RelativeToolTip": "Distributed.Cache\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:41:29.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:41:29.755Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Metehan\\OneDrive\\Masa\u00FCst\u00FC\\Projeler\\GitHub\\Redis\\CacheExamplesFirst\\Distributed.Cache\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Distributed.Cache\\Controllers\\HomeController.cs",
@@ -106,8 +103,7 @@
               "RelativeToolTip": "Distributed.Cache\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-25T13:41:39.068Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-25T13:41:39.068Z"
             }
           ]
         }
